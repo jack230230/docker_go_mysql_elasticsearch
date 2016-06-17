@@ -1,4 +1,4 @@
-FROM golang:1.4
+FROM golang:1.6
 MAINTAINER Eagle Chen <chygr1234@gmail.com>
 
 ENV MARIADB_MAJOR 10.0
